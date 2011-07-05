@@ -1,0 +1,27 @@
+Source: khangman
+Section: kde
+Priority: optional
+Maintainer: Kubuntu Developers <kubuntu-devel@lists.ubuntu.com>
+XSBC-Original-Maintainer: Harald Sitter <apachelogger@ubuntu.com>
+Build-Depends: kde-sc-dev-latest (>= 4:4.6.90),
+ cmake, debhelper (>= 7.3.16), pkg-kde-tools (>= 0.12),
+ kdelibs5-dev (>= 4:4.6)
+Standards-Version: 3.9.2
+Homepage: http://edu.kde.org/
+Vcs-Browser: http://bazaar.launchpad.net/~kubuntu-packagers/kubuntu-packaging/khangman
+Vcs-Bzr: https://code.launchpad.net/~kubuntu-packagers/kubuntu-packaging/khangman
+
+Package: khangman
+Architecture: any
+Section: misc
+Depends: ${shlibs:Depends}, ${misc:Depends}, ttf-dustin, kdeedu-kvtml-data
+Suggests: khelpcenter4
+Description: Hangman word puzzle for KDE
+ KHangMan is the well-known Hangman game, aimed towards children aged 6 and
+ above.
+ .
+ It picks a random word which the player must reveal by guessing if it contains
+ certain letters.  As the player guesses letters, the word is gradually
+ revealed, but 10 wrong guesses will end the game.
+ .
+ This package is part of the KDE education module.
