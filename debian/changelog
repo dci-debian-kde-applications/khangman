@@ -1,5 +1,6 @@
-khangman (4:4.6.90-0ubuntu1) UNRELEASED; urgency=low
+khangman (4:4.6.90+repack-0ubuntu1) UNRELEASED; urgency=low
 
   * Initial release (moved out of kdeedu)
+  * Repack upstream source to include a copy of FDL1.2
 
  -- Harald Sitter <apachelogger@ubuntu.com>  Tue, 05 Jul 2011 19:51:02 +0200
