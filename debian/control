@@ -8,8 +8,8 @@ Build-Depends: kde-sc-dev-latest (>= 4:4.7.1),
  kdelibs5-dev (>= 4:4.7), libkdeedu-dev (>= 4:4.7)
 Standards-Version: 3.9.2
 Homepage: http://edu.kde.org/
-Vcs-Browser: http://bazaar.launchpad.net/~kubuntu-packagers/kubuntu-packaging/khangman
-Vcs-Bzr: https://code.launchpad.net/~kubuntu-packagers/kubuntu-packaging/khangman
+Vcs-Browser: http://git.debian.org/?p=pkg-kde/kde-sc/khangman.git
+Vcs-Git: git://git.debian.org/pkg-kde/kde-sc/khangman.git
 
 Package: khangman
 Architecture: any
