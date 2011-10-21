@@ -1,0 +1,25 @@
+khangman (4:4.7.1-0ubuntu2) oneiric; urgency=low
+
+  * No-change rebuild so translations aren't stripped from .desktop
+    files anymore.
+
+ -- Felix Geyer <debfx-pkg@fobos.de>  Fri, 16 Sep 2011 00:55:17 +0200
+
+khangman (4:4.7.1-0ubuntu1) oneiric; urgency=low
+
+  * New upstream release
+
+ -- Jonathan Kolberg <bulldog98@kubuntu-de.org>  Fri, 09 Sep 2011 23:33:04 -0400
+
+khangman (4:4.7.0-0ubuntu1) oneiric; urgency=low
+
+  * New upstream release
+
+ -- Harald Sitter <apachelogger@ubuntu.com>  Sat, 23 Jul 2011 14:54:56 +0200
+
+khangman (4:4.6.90+repack-0ubuntu1) oneiric; urgency=low
+
+  * Initial release (moved out of kdeedu)
+  * Repack upstream source to include a copy of GFDL1.2
+
+ -- Harald Sitter <apachelogger@ubuntu.com>  Sun, 10 Jul 2011 11:55:40 +0200
