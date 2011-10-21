@@ -1,5 +1,5 @@
-khangman (4:4.7.2-0r0) UNRELEASED; urgency=low
+khangman (4:4.7.2-0r1) UNRELEASED; urgency=low
 
   * Initial release. Start from the Kubuntu packaging, thanks!
 
- -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Fri, 21 Oct 2011 23:27:52 +0200
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sat, 22 Oct 2011 00:10:57 +0200
