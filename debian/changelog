@@ -1,8 +1,15 @@
-khangman (4:4.7.3-0ubuntu1) UNRELEASED; urgency=low
+khangman (4:4.7.3-0ubuntu1) precise; urgency=low
 
   * New upstream release
+  * Merge with Debian Git, no changes
 
- -- Philip Muškovac <yofel@kubuntu.org>  Tue, 01 Nov 2011 14:21:55 +0100
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Wed, 23 Nov 2011 23:47:00 +0000
+
+khangman (4:4.7.2-0r2) UNRELEASED; urgency=low
+
+  * Initial release. Start from the Kubuntu packaging, thanks!
+
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sat, 22 Oct 2011 00:10:57 +0200
 
 khangman (4:4.7.1-0ubuntu2) oneiric; urgency=low
 
