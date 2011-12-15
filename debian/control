@@ -15,7 +15,7 @@ Vcs-Git: git://git.debian.org/pkg-kde/kde-sc/khangman.git
 Package: khangman
 Architecture: any
 Section: misc
-Depends: ${shlibs:Depends}, ${misc:Depends}, ttf-dustin, kdeedu-kvtml-data
+Depends: ${shlibs:Depends}, ${misc:Depends}, fonts-dustin, kdeedu-kvtml-data
 Suggests: khelpcenter4
 Description: Hangman word puzzle for KDE
  KHangMan is the well-known Hangman game, aimed towards children aged 6 and
