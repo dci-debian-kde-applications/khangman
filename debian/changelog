@@ -5,6 +5,9 @@ khangman (4:4.7.4-0r0) UNRELEASED; urgency=low
   [ José Manuel Santamaría Lema ]
   * Bump kde-sc-dev-latest build dependency to 4:4.7.4.
 
+  [ Eshat Cakar ]
+  * Depend on new fonts-dustin package.
+
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Thu, 08 Dec 2011 01:52:33 +0100
 
 khangman (4:4.7.2-1) experimental; urgency=low
