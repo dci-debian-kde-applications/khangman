@@ -1,4 +1,4 @@
-khangman (4:4.8.3-0ubuntu0.1) UNRELEASED; urgency=low
+khangman (4:4.8.3-0ubuntu1) quantal; urgency=low
 
   * New upstream release
     - Add libssl-dev to build-dep
