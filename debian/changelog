@@ -1,6 +1,10 @@
-khangman (4:4.8.90-0ubuntu1) UNRELEASED; urgency=low
+khangman (4:4.8.90-0ubuntu1~ppa2) quantal; urgency=low
 
+  [ Felix Geyer ]
   * New upstream beta release.
+
+  [ Jonathan Riddell ]
+  * Install new files
 
  -- Felix Geyer <debfx@ubuntu.com>  Mon, 11 Jun 2012 23:29:58 +0200
 
