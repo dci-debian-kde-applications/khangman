@@ -1,4 +1,4 @@
-khangman (4:4.8.90-0ubuntu1~ppa2) quantal; urgency=low
+khangman (4:4.8.90-0ubuntu1) quantal; urgency=low
 
   [ Felix Geyer ]
   * New upstream beta release.
