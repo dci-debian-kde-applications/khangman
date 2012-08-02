@@ -15,6 +15,6 @@ usr/share/kde4/config.kcfg/khangman.kcfg
 usr/share/kde4/config/khangman.knsrc
 usr/share/man/man6/khangman.6
 usr/lib/libkhangmanengine.so.4
-usr/lib/libkhangmanengine.so.4.8.0
+usr/lib/libkhangmanengine.so.4.9.0
 usr/share/icons/hicolor/80x80/apps/khangman-harmattan.png
 usr/share/icons/hicolor/scalable/apps/khangman-harmattan.svgz
