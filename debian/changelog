@@ -6,7 +6,7 @@ khangman (4:4.9.1-0ubuntu1) quantal; urgency=low
   [ Philip Muškovac ]
   * Change sonames from 4.9.0 to 4.9.* 
 
- -- Harald Sitter <apachelogger@ubuntu.com>  Tue, 04 Sep 2012 15:13:57 +0530
+ -- Harald Sitter <apachelogger@ubuntu.com>  Mon, 10 Sep 2012 18:32:54 +0530
 
 khangman (4:4.9.0-0ubuntu2) quantal; urgency=low
 
