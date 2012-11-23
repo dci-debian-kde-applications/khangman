@@ -1,9 +1,12 @@
-khangman (4:4.9.80-0ubuntu1) UNRELEASED; urgency=low
+khangman (4:4.9.80-0ubuntu1) raring; urgency=low
 
-  * New upstream beta release
+  [ Jonathan Riddell ]
   * New upstream beta release
 
- -- Jonathan Riddell <jriddell@ubuntu.com>  Mon, 19 Nov 2012 15:58:32 +0000
+  [ Philip Muškovac ]
+  * Remove duplicate copyright field to make lintian happy 
+
+ -- Philip Muškovac <yofel@kubuntu.org>  Fri, 23 Nov 2012 23:29:53 +0100
 
 khangman (4:4.9.3-0ubuntu1) raring; urgency=low
 
