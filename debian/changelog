@@ -1,4 +1,4 @@
-khangman (4:4.9.95-0ubuntu1) UNRELEASED; urgency=low
+khangman (4:4.9.95-0ubuntu1) raring; urgency=low
 
   * New upstream RC release
 
@@ -124,7 +124,7 @@ khangman (4:4.7.3-0ubuntu1) precise; urgency=low
 
  -- Jonathan Riddell <jriddell@ubuntu.com>  Wed, 23 Nov 2011 23:47:00 +0000
 
-khangman (4:4.7.2-0r2) UNRELEASED; urgency=low
+khangman (4:4.7.2-0r2) raring; urgency=low
 
   * Initial release. Start from the Kubuntu packaging, thanks!
 
