@@ -1,8 +1,8 @@
-khangman (4:4.10.0-0ubuntu1) UNRELEASED; urgency=low
+khangman (4:4.10.0-0ubuntu1) raring-proposed; urgency=low
 
   * New upstream release
 
- -- Rohan Garg <rohangarg@kubuntu.org>  Thu, 31 Jan 2013 11:21:30 +0530
+ -- Rohan Garg <rohangarg@kubuntu.org>  Wed, 06 Feb 2013 11:54:32 +0000
 
 khangman (4:4.9.98-0ubuntu1) raring-proposed; urgency=low
 
