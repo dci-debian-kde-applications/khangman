@@ -4,3 +4,10 @@
 
 # Manpages are compressed
 ./usr/share/man/man6/khangman.6
+
+# New dev stuff
+./usr/include/khangman/khangman_engine_export.h
+./usr/include/khangman/khangmanengine.h
+./usr/include/khangman/prefs.h
+./usr/lib/libkhangmanengine.so
+
