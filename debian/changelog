@@ -1,3 +1,19 @@
+khangman (4:4.10.3-0ubuntu1) saucy; urgency=low
+
+  * New upstream release
+  * Merge with Debian, no changes remaining
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Thu, 23 May 2013 11:04:40 +0000
+
+khangman (4:4.10.2-1) experimental; urgency=low
+
+  * New upstream release.
+  * Update uploaders.
+  * Bump build-deps.
+  * Update install-file.
+
+ -- Sune Vuorela <sune@debian.org>  Sun, 07 Apr 2013 16:49:01 +0000
+
 khangman (4:4.10.2-0ubuntu1) raring; urgency=low
 
   * New upstream bugfix release
@@ -103,6 +119,12 @@ khangman (4:4.8.80-0ubuntu1) quantal; urgency=low
 
  -- Jonathan Riddell <jriddell@ubuntu.com>  Wed, 06 Jun 2012 14:07:37 +0100
 
+khangman (4:4.8.4-1) unstable; urgency=low
+
+  * Prepare new upstream
+
+ -- Sune Vuorela <sune@debian.org>  Sun, 17 Jun 2012 00:34:51 +0200
+
 khangman (4:4.8.3-0ubuntu1) quantal; urgency=low
 
   * New upstream release
@@ -147,12 +169,36 @@ khangman (4:4.7.90-0ubuntu1) precise; urgency=low
 
  -- Jonathan Riddell <jriddell@ubuntu.com>  Fri, 16 Dec 2011 13:14:40 +0000
 
+khangman (4:4.7.4-2) unstable; urgency=low
+
+  * Team upload. Upload to unstable.
+
+ -- Pino Toscano <pino@debian.org>  Wed, 07 Mar 2012 11:39:27 +0100
+
+khangman (4:4.7.4-1) experimental; urgency=low
+
+  * New upstream release. 
+  
+  [ José Manuel Santamaría Lema ]
+  * Bump kde-sc-dev-latest build dependency to 4:4.7.4.
+
+  [ Eshat Cakar ]
+  * Depend on new fonts-dustin package.
+
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sun, 18 Dec 2011 01:38:30 +0100
+
 khangman (4:4.7.3-0ubuntu1) precise; urgency=low
 
   * New upstream release
   * Merge with Debian Git, no changes
 
  -- Jonathan Riddell <jriddell@ubuntu.com>  Wed, 23 Nov 2011 23:47:00 +0000
+
+khangman (4:4.7.2-1) experimental; urgency=low
+
+  * Initial release. Start from the Kubuntu packaging, thanks!
+
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sat, 03 Dec 2011 10:42:24 -0300
 
 khangman (4:4.7.2-0r2) raring; urgency=low
 
@@ -185,3 +231,4 @@ khangman (4:4.6.90+repack-0ubuntu1) oneiric; urgency=low
   * Repack upstream source to include a copy of GFDL1.2
 
  -- Harald Sitter <apachelogger@ubuntu.com>  Sun, 10 Jul 2011 11:55:40 +0200
+

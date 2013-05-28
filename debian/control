@@ -4,12 +4,11 @@ Priority: optional
 Maintainer: Kubuntu Developers <kubuntu-devel@lists.ubuntu.com>
 XSBC-Original-Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 Uploaders: Eshat Cakar <info@eshat.de>,
- José Manuel Santamaría Lema <panfaust@gmail.com>
-Build-Depends: 
+ Sune Vuorela <sune@debian.org>
+Build-Depends: kde-sc-dev-latest (>= 4:4.10),
  cmake, debhelper (>= 7.3.16), pkg-kde-tools (>= 0.12),
- kdelibs5-dev (>= 4:4.10.2), libkdeedu-dev (>= 4:4.10.2),
- libssl-dev
-Standards-Version: 3.9.3
+ kdelibs5-dev (>= 4:4.10), libkdeedu-dev (>= 4:4.10)
+Standards-Version: 3.9.2
 Homepage: http://edu.kde.org/
 Vcs-Browser: http://bazaar.launchpad.net/~kubuntu-packagers/kubuntu-packaging/khangman
 Vcs-Bzr: https://code.launchpad.net/~kubuntu-packagers/kubuntu-packaging/khangman
@@ -19,9 +18,9 @@ X-Debian-Vcs-Git: git://git.debian.org/pkg-kde/kde-sc/khangman.git
 Package: khangman
 Architecture: any
 Section: misc
-Depends: ${shlibs:Depends}, ${misc:Depends}, ttf-dustin, kdeedu-kvtml-data
+Depends: ${shlibs:Depends}, ${misc:Depends}, fonts-dustin, kdeedu-kvtml-data
 Suggests: khelpcenter4
-Description: Hangman word puzzle for KDE
+Description: Hangman word puzzle
  KHangMan is the well-known Hangman game, aimed towards children aged 6 and
  above.
  .

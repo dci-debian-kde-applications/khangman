@@ -1,12 +1,13 @@
-# Shipped in ttf-dustin
+# Shipped in fonts-dustin
 ./usr/share/kde4/apps/khangman/fonts/Domestic_Manners.ttf
 ./usr/share/kde4/apps/khangman/fonts/Dustismo_Roman.ttf
 
 # Manpages are compressed
 ./usr/share/man/man6/khangman.6
 
+# New dev stuff
 ./usr/include/khangman/khangman_engine_export.h
 ./usr/include/khangman/khangmanengine.h
 ./usr/include/khangman/prefs.h
-
 ./usr/lib/libkhangmanengine.so
+
