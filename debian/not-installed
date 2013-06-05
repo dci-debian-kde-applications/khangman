@@ -12,5 +12,5 @@
 ./usr/lib/libkhangmanengine.so
 
 # khangman-harmattan (qml version) not built, off upstream
-usr/share/icons/hicolor/80x80/apps/khangman-harmattan.png
-usr/share/icons/hicolor/scalable/apps/khangman-harmattan.svgz
+./usr/share/icons/hicolor/80x80/apps/khangman-harmattan.png
+./usr/share/icons/hicolor/scalable/apps/khangman-harmattan.svgz
