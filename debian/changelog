@@ -1,8 +1,8 @@
-khangman (4:4.10.90-0ubuntu1) UNRELEASED; urgency=low
+khangman (4:4.10.90-0ubuntu1) saucy; urgency=low
 
   * New upstream bet release
 
- -- Michał Zając <quintasan@kubuntu.org>  Thu, 27 Jun 2013 02:49:19 +0200
+ -- Michał Zając <quintasan@kubuntu.org>  Fri, 28 Jun 2013 18:15:10 +0100
 
 khangman (4:4.10.80-0ubuntu1) saucy; urgency=low
 
