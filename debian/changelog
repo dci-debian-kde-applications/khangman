@@ -1,8 +1,8 @@
-khangman (4:4.10.97-0ubuntu1) UNRELEASED; urgency=low
+khangman (4:4.10.97-0ubuntu1) saucy; urgency=low
 
   * New upstream RC 2 release
 
- -- Jonathan Riddell <jriddell@ubuntu.com>  Thu, 25 Jul 2013 12:53:41 +0100
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Fri, 26 Jul 2013 19:35:53 +0100
 
 khangman (4:4.10.95-0ubuntu1) saucy; urgency=low
 
