@@ -8,7 +8,9 @@ usr/share/icons/hicolor/22x22/apps/khangman.png
 usr/share/icons/hicolor/32x32/apps/khangman.png
 usr/share/icons/hicolor/48x48/apps/khangman.png
 usr/share/icons/hicolor/64x64/apps/khangman.png
+usr/share/icons/hicolor/80x80/apps/khangman-harmattan.png
 usr/share/icons/hicolor/scalable/apps/khangman.svgz
+usr/share/icons/hicolor/scalable/apps/khangman-harmattan.svgz
 usr/share/kde4/apps/khangman/khangmanui.rc
 usr/share/kde4/apps/khangman/pics/
 usr/share/kde4/apps/khangman/sounds/

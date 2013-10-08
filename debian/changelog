@@ -1,6 +1,7 @@
 khangman (4:4.11.2-1) experimental; urgency=low
 
   * New upstream release.
+  * Update install files.
 
  -- Maximiliano Curia <maxy@debian.org>  Mon, 07 Oct 2013 16:53:17 +0200
 
