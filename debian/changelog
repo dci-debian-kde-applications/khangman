@@ -1,3 +1,9 @@
+khangman (4:4.11.3-2) UNRELEASED; urgency=low
+
+  * Bump Standards-Version to 3.9.5, no changes needed.
+
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 28 Jan 2014 20:18:03 +0100
+
 khangman (4:4.11.3-1) unstable; urgency=low
 
   * New upstream release.
