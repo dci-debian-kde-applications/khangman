@@ -1,8 +1,8 @@
-khangman (4:4.13.3-1) UNRELEASED; urgency=medium
+khangman (4:4.13.3-1) unstable; urgency=medium
 
   * New upstream release.
 
- -- Maximiliano Curia <maxy@debian.org>  Wed, 16 Jul 2014 13:23:14 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 29 Jul 2014 10:01:34 +0200
 
 khangman (4:4.13.2-0ubuntu1) utopic; urgency=medium
 
