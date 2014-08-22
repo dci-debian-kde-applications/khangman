@@ -1,9 +1,9 @@
-khangman (4:4.14.0-1) UNRELEASED; urgency=medium
+khangman (4:4.14.0-1) unstable; urgency=medium
 
   * New upstream release.
   * Update install file.
 
- -- Maximiliano Curia <maxy@debian.org>  Mon, 18 Aug 2014 18:30:37 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 22 Aug 2014 05:24:28 +0200
 
 khangman (4:4.13.3-1) unstable; urgency=medium
 
