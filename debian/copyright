@@ -1,7 +1,7 @@
 Format: http://www.debian.org/doc/copyright-format/1.0
 Upstream-Name: KHangMan
 Upstream-Contact: kde-edu@mail.kde.org
-Source: ftp.kde.org
+Source: download.kde.org
 
 Files: *
 Copyright: 2001-2009, Anne-Marie Mahfouf <annma@kde.org>
@@ -39,7 +39,7 @@ License: GFDL-1.2+
 
 Files: debian/*
 Copyright: 2011, Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
-Copyright: 2011, Harald Sitter <apachelogger@ubuntu.com>
+           2011, Harald Sitter <apachelogger@ubuntu.com>
 License: GPL-2+
 
 License: GPL-2+
