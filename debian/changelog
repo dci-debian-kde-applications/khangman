@@ -8,6 +8,7 @@ khangman (4:14.12.0-0ubuntu1) UNRELEASED; urgency=medium
    - KF5 port
   * Debian merge, no remaining changes. 
   * Add missing depend libqt5svg5-dev 
+  * Fix not-installed paths.
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Tue, 25 Nov 2014 19:22:14 +0000
 
