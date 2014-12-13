@@ -1,6 +1,7 @@
 khangman (4:4.14.1-1ubuntu1) UNRELEASED; urgency=medium
 
   * Remove kdelibs5-dev depend version as there was not a new release.
+  * Correct the paths in the not-installed. 
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 12 Dec 2014 14:19:26 -0800
 

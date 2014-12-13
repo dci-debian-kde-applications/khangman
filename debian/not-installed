@@ -1,6 +1,6 @@
 # Shipped in fonts-dustin
-./usr/share/kde4/apps/khangman/fonts/Domestic_Manners.ttf
-./usr/share/kde4/apps/khangman/fonts/Dustismo_Roman.ttf
+./usr/share/khangman/fonts/Domestic_Manners.ttf
+./usr/share/khangman/fonts/Dustismo_Roman.ttf
 
 # Manpages are compressed
 ./usr/share/man/man6/khangman.6
@@ -9,7 +9,7 @@
 ./usr/include/khangman/khangman_engine_export.h
 ./usr/include/khangman/khangmanengine.h
 ./usr/include/khangman/prefs.h
-./usr/lib/libkhangmanengine.so
+./usr/lib/*/libkhangmanengine.so
 
 # khangman-harmattan (qml version) not built, off upstream
 ./usr/share/icons/hicolor/80x80/apps/khangman-harmattan.png
