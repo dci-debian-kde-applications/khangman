@@ -1,4 +1,4 @@
-khangman (4:14.12.0-0ubuntu1) UNRELEASED; urgency=medium
+khangman (4:14.12.0-0ubuntu1) vivid; urgency=medium
 
   * Initial release for KDE applications 14.12 series 
    - Change maintainer to Debian/Kubuntu
@@ -10,7 +10,7 @@ khangman (4:14.12.0-0ubuntu1) UNRELEASED; urgency=medium
   * Add missing depend libqt5svg5-dev 
   * Fix not-installed paths.
 
- -- Scarlett Clark <sgclark@kubuntu.org>  Tue, 25 Nov 2014 19:22:14 +0000
+ -- Scarlett Clark <sgclark@kubuntu.org>  Mon, 15 Dec 2014 17:07:35 +0100
 
 khangman (4:4.14.2-0ubuntu1) vivid; urgency=medium
 
