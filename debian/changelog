@@ -1,3 +1,14 @@
+khangman (4:14.12.2-1~) UNRELEASED; urgency=medium
+
+  [ Scarlett Clark ]
+  * Remove kdelibs5-dev depend version as there was not a new release.
+  * Correct the paths in the not-installed. 
+
+  [ Maximiliano Curia ]
+  * New upstream release (14.12.2).
+
+ -- Maximiliano Curia <maxy@debian.org>  Sun, 22 Feb 2015 11:39:27 +0100
+
 khangman (4:14.12.2-0ubuntu1) vivid; urgency=medium
 
   * New upstream release
@@ -23,13 +34,6 @@ khangman (4:4.14.2-0ubuntu1) vivid; urgency=medium
   * New upstream release
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 10 Oct 2014 05:08:13 -0700
-
-khangman (4:4.14.1-1ubuntu1) UNRELEASED; urgency=medium
-
-  * Remove kdelibs5-dev depend version as there was not a new release.
-  * Correct the paths in the not-installed. 
-
- -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 12 Dec 2014 14:19:26 -0800
 
 khangman (4:4.14.1-1) unstable; urgency=medium
 
