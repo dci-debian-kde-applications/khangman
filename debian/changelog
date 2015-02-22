@@ -7,6 +7,7 @@ khangman (4:14.12.2+dfsg-1~) UNRELEASED; urgency=medium
   [ Maximiliano Curia ]
   * New dfsg version (14.12.2+dfsg).
   * Update copyright information.
+  * New patch: drop_cc-nc_theme
 
  -- Maximiliano Curia <maxy@debian.org>  Sun, 22 Feb 2015 14:26:33 +0100
 
