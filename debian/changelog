@@ -1,4 +1,4 @@
-khangman (4:14.12.2+dfsg-1~) UNRELEASED; urgency=medium
+khangman (4:14.12.2+dfsg-1) experimental; urgency=medium
 
   [ Scarlett Clark ]
   * Remove kdelibs5-dev depend version as there was not a new release.
@@ -9,7 +9,7 @@ khangman (4:14.12.2+dfsg-1~) UNRELEASED; urgency=medium
   * Update copyright information.
   * New patch: drop_cc-nc_theme
 
- -- Maximiliano Curia <maxy@debian.org>  Sun, 22 Feb 2015 14:26:33 +0100
+ -- Maximiliano Curia <maxy@debian.org>  Sun, 22 Feb 2015 15:22:18 +0100
 
 khangman (4:14.12.2-0ubuntu1) vivid; urgency=medium
 
