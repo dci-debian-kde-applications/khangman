@@ -1,14 +1,14 @@
-khangman (4:14.12.2-1~) UNRELEASED; urgency=medium
+khangman (4:14.12.2+dfsg-1~) UNRELEASED; urgency=medium
 
   [ Scarlett Clark ]
   * Remove kdelibs5-dev depend version as there was not a new release.
   * Correct the paths in the not-installed.
 
   [ Maximiliano Curia ]
-  * New upstream release (14.12.2).
+  * New dfsg version (14.12.2+dfsg).
   * Update copyright information.
 
- -- Maximiliano Curia <maxy@debian.org>  Sun, 22 Feb 2015 11:39:27 +0100
+ -- Maximiliano Curia <maxy@debian.org>  Sun, 22 Feb 2015 14:26:33 +0100
 
 khangman (4:14.12.2-0ubuntu1) vivid; urgency=medium
 
