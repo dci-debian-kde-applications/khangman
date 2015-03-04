@@ -11,4 +11,5 @@ usr/share/icons/hicolor/48x48/apps/khangman.png
 usr/share/icons/hicolor/64x64/apps/khangman.png
 usr/share/icons/hicolor/80x80/apps/khangman-harmattan.png
 usr/share/icons/hicolor/scalable/apps/khangman.svgz
-usr/share/khangman/
+usr/share/khangman/qml
+usr/share/khangman/themes
