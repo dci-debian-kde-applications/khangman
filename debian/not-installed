@@ -9,7 +9,8 @@
 ./usr/include/khangman/khangman_engine_export.h
 ./usr/include/khangman/khangmanengine.h
 ./usr/include/khangman/prefs.h
-./usr/lib/*/libkhangmanengine.so
+./usr/lib/x86_64-linux-gnu/libkhangmanengine.so
+./usr/lib/i386-linux-gnu/libkhangmanengine.so
 
 # khangman-harmattan (qml version) not built, off upstream
 ./usr/share/icons/hicolor/80x80/apps/khangman-harmattan.png
