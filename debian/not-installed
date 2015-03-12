@@ -13,5 +13,6 @@
 ./usr/lib/i386-linux-gnu/libkhangmanengine.so
 
 # khangman-harmattan (qml version) not built, off upstream
+# https://bugs.kde.org/show_bug.cgi?id=344834
 ./usr/share/icons/hicolor/80x80/apps/khangman-harmattan.png
 ./usr/share/icons/hicolor/scalable/apps/khangman-harmattan.svgz
