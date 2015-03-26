@@ -4,6 +4,15 @@ khangman (4:14.12.3+dfsg-1~) UNRELEASED; urgency=medium
 
  -- Maximiliano Curia <maxy@debian.org>  Thu, 26 Mar 2015 13:07:39 +0100
 
+khangman (4:14.12.3-0ubuntu1) vivid; urgency=medium
+
+  * New upstream release
+  * Remove wildcard from not-installed and hard code path.
+  * Manual merge kubuntu_unstable.
+  * Merge of course broke my build.
+
+ -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 13 Mar 2015 14:26:50 -0700
+
 khangman (4:14.12.2+dfsg-1) experimental; urgency=medium
 
   [ Scarlett Clark ]
