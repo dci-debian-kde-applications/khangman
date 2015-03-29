@@ -1,8 +1,8 @@
-khangman (4:14.12.3+dfsg-1~) UNRELEASED; urgency=medium
+khangman (4:14.12.3+dfsg-1) experimental; urgency=medium
 
   * New upstream release (14.12.3+dfsg).
 
- -- Maximiliano Curia <maxy@debian.org>  Thu, 26 Mar 2015 13:07:39 +0100
+ -- Maximiliano Curia <maxy@debian.org>  Sun, 29 Mar 2015 15:13:48 +0200
 
 khangman (4:14.12.3-0ubuntu1) vivid; urgency=medium
 
