@@ -23,10 +23,10 @@ Build-Depends: cmake (>= 2.8.12),
                libkf5xmlgui-dev,
                libphonon4qt5-dev (>= 4.6.60),
                libphonon4qt5experimental-dev,
-               libqt5svg5-dev,
+               libqt5svg5-dev (>= 5.4),
                pkg-kde-tools (>> 0.15.15),
-               qtbase5-dev,
-               qtdeclarative5-dev
+               qtbase5-dev (>= 5.4),
+               qtdeclarative5-dev (>= 5.4)
 Standards-Version: 3.9.6
 Homepage: http://edu.kde.org/
 Vcs-Browser: http://anonscm.debian.org/cgit/pkg-kde/applications/khangman.git
