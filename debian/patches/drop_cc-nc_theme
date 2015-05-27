@@ -1,20 +1,20 @@
 Index: khangman/themes/CMakeLists.txt
 ===================================================================
---- khangman.orig/themes/CMakeLists.txt	2015-02-22 14:37:09.678050509 +0100
-+++ khangman/themes/CMakeLists.txt	2015-02-22 14:37:59.396050702 +0100
+--- khangman.orig/themes/CMakeLists.txt	2015-05-27 19:02:38.433906323 +0200
++++ khangman/themes/CMakeLists.txt	2015-05-27 19:02:48.941480270 +0200
 @@ -1,7 +1,6 @@
  add_subdirectory(desert)
  add_subdirectory(sea)
  add_subdirectory(bees)
 -add_subdirectory(winter)
+ add_subdirectory(notes)
  
  install( FILES standardthemes.xml  DESTINATION  ${DATA_INSTALL_DIR}/khangman/themes)
- 
 Index: khangman/themes/standardthemes.xml
 ===================================================================
---- khangman.orig/themes/standardthemes.xml	2015-02-22 14:36:41.423187066 +0100
-+++ khangman/themes/standardthemes.xml	2015-02-22 14:38:23.739071603 +0100
-@@ -17,22 +17,6 @@
+--- khangman.orig/themes/standardthemes.xml	2015-05-27 19:02:38.433906323 +0200
++++ khangman/themes/standardthemes.xml	2015-05-27 19:02:38.425906649 +0200
+@@ -33,22 +33,6 @@
      </coords>
      </theme>
  
