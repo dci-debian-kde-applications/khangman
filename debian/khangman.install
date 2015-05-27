@@ -1,6 +1,5 @@
 etc/xdg/khangman.knsrc
 usr/bin/khangman
-usr/lib/*/libkhangmanengine.so.*
 usr/share/appdata/khangman.appdata.xml
 usr/share/applications/org.kde.khangman.desktop
 usr/share/config.kcfg/khangman.kcfg
