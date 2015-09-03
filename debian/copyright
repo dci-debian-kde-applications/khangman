@@ -2,7 +2,6 @@ Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: khangman
 Upstream-Contact: kde-edu@mail.kde.org
 Source: git://anongit.kde.org/khangman
-Files-Excluded: themes/winter/khangman_winter.svg
 
 Files: *
 Copyright: 2010, Adam Rakowski <foo-script@o2.pl> (GSoC 2010)

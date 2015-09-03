@@ -1,10 +1,26 @@
-khangman (4:15.04.3+dfsg-1~) UNRELEASED; urgency=medium
+khangman (4:15.08.0-1) unstable; urgency=medium
 
-  * New upstream release (15.04.0+dfsg).
-  * New upstream release (15.04.1+dfsg).
-  * New upstream release (15.04.3+dfsg).
+  * Upload to unstable
 
- -- Maximiliano Curia <maxy@debian.org>  Fri, 03 Jul 2015 16:42:01 +0200
+  [ Maximiliano Curia ]
+  * Bump minimum version requirement for qtbase5-dev, libqt5svg5-dev, and
+    extra-cmake-modules.
+  * Add qtdeclarative5-dev, libkf5declarative-dev, and kio-dev to
+    build-depends
+  * Update khangman.install to remove usr/lib/*/libkhangmanengine.so and
+    usr/share/kxmlgui5/khangman/khangmanui.rc as they are no longer built by
+    the package
+
+  [ Scott Kitterman ]
+  * New upstream release
+  * Update packaging now that license of themes/winter/khangman_winter.svg has
+    been clarified as being DFSG free
+    - Remove themes/winter/khangman_winter.svg from Files-excluded in debian/
+      copyright
+    - Remove debian/patches/drop_cc-nc_theme (and the patch directory)
+    - Adjust debian/watch for the elimination of the dfsg suffix
+
+ -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Thu, 03 Sep 2015 15:33:28 -0400
 
 khangman (4:14.12.3+dfsg-1) experimental; urgency=medium
 
