@@ -1,8 +1,27 @@
+khangman (4:15.12.1-1ubuntu1) UNRELEASED; urgency=medium
+
+  * Debian merge: No remaining changes.
+
+ -- Scarlett Clark <sgclark@kubuntu.org>  Thu, 04 Feb 2016 17:04:41 -0800
+
+khangman (4:15.12.1-1) experimental; urgency=medium
+
+  * New upstream release (15.12.0).
+  * New upstream release (15.12.1).
+
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 01 Feb 2016 10:23:18 +0100
+
 khangman (4:15.12.0-0ubuntu1) UNRELEASED; urgency=medium
 
   * New upstream release
 
  -- Clive Johnston <clivejo@aol.com>  Sat, 02 Jan 2016 13:55:02 +0000
+
+khangman (4:15.08.3-1) unstable; urgency=medium
+
+  * New upstream release (15.08.3).
+
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 02 Dec 2015 12:39:17 +0100
 
 khangman (4:15.08.2-0ubuntu1) wily; urgency=medium
 
@@ -11,11 +30,41 @@ khangman (4:15.08.2-0ubuntu1) wily; urgency=medium
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 14 Oct 2015 12:27:01 +0100
 
+khangman (4:15.08.1-1) unstable; urgency=medium
+
+  * New upstream release (15.08.1).
+
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 19 Sep 2015 02:45:18 +0200
+
 khangman (4:15.08.1-0ubuntu1) wily; urgency=medium
 
   * New upstream release (15.08.1)
 
  -- Clive Johnston <clivejo@aol.com>  Tue, 22 Sep 2015 16:53:03 +0100
+
+khangman (4:15.08.0-1) unstable; urgency=medium
+
+  * Upload to unstable
+
+  [ Maximiliano Curia ]
+  * Bump minimum version requirement for qtbase5-dev, libqt5svg5-dev, and
+    extra-cmake-modules.
+  * Add qtdeclarative5-dev, libkf5declarative-dev, and kio-dev to
+    build-depends
+  * Update khangman.install to remove usr/lib/*/libkhangmanengine.so and
+    usr/share/kxmlgui5/khangman/khangmanui.rc as they are no longer built by
+    the package
+
+  [ Scott Kitterman ]
+  * New upstream release
+  * Update packaging now that license of themes/winter/khangman_winter.svg has
+    been clarified as being DFSG free
+    - Remove themes/winter/khangman_winter.svg from Files-excluded in debian/
+      copyright
+    - Remove debian/patches/drop_cc-nc_theme (and the patch directory)
+    - Adjust debian/watch for the elimination of the dfsg suffix
+
+ -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Thu, 03 Sep 2015 15:33:28 -0400
 
 khangman (4:15.08.0-0ubuntu1) wily; urgency=medium
 
@@ -41,11 +90,33 @@ khangman (4:15.04.2-0ubuntu1) wily; urgency=medium
 
  -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 09 Jun 2015 19:04:11 +0200
 
+khangman (4:14.12.3+dfsg-1) experimental; urgency=medium
+
+  * New upstream release (14.12.3+dfsg).
+
+ -- Maximiliano Curia <maxy@debian.org>  Sun, 29 Mar 2015 15:13:48 +0200
+
 khangman (4:14.12.3-0ubuntu1) vivid; urgency=medium
 
   * New upstream release
+  * Remove wildcard from not-installed and hard code path.
+  * Manual merge kubuntu_unstable.
+  * Merge of course broke my build.
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 13 Mar 2015 14:26:50 -0700
+
+khangman (4:14.12.2+dfsg-1) experimental; urgency=medium
+
+  [ Scarlett Clark ]
+  * Remove kdelibs5-dev depend version as there was not a new release.
+  * Correct the paths in the not-installed.
+
+  [ Maximiliano Curia ]
+  * New dfsg version (14.12.2+dfsg).
+  * Update copyright information.
+  * New patch: drop_cc-nc_theme
+
+ -- Maximiliano Curia <maxy@debian.org>  Sun, 22 Feb 2015 15:22:18 +0100
 
 khangman (4:14.12.2-0ubuntu1) vivid; urgency=medium
 
@@ -55,14 +126,14 @@ khangman (4:14.12.2-0ubuntu1) vivid; urgency=medium
 
 khangman (4:14.12.0-0ubuntu1) vivid; urgency=medium
 
-  * Initial release for KDE applications 14.12 series 
+  * Initial release for KDE applications 14.12 series
    - Change maintainer to Debian/Kubuntu
    - Remove X-Ubuntu entries no longer applicable.
-   - Fix Watch file applications locations 
+   - Fix Watch file applications locations
    - Fix VCS for new kde-applications location
    - KF5 port
-  * Debian merge, no remaining changes. 
-  * Add missing depend libqt5svg5-dev 
+  * Debian merge, no remaining changes.
+  * Add missing depend libqt5svg5-dev
   * Fix not-installed paths.
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Mon, 15 Dec 2014 17:07:35 +0100
@@ -370,7 +441,7 @@ khangman (4:4.9.80-0ubuntu1) raring; urgency=low
   * New upstream beta release
 
   [ Philip Muškovac ]
-  * Remove duplicate copyright field to make lintian happy 
+  * Remove duplicate copyright field to make lintian happy
 
  -- Philip Muškovac <yofel@kubuntu.org>  Fri, 23 Nov 2012 23:29:53 +0100
 
@@ -392,7 +463,7 @@ khangman (4:4.9.1-0ubuntu1) quantal; urgency=low
   * New upstream release
 
   [ Philip Muškovac ]
-  * Change sonames from 4.9.0 to 4.9.* 
+  * Change sonames from 4.9.0 to 4.9.*
 
  -- Harald Sitter <apachelogger@ubuntu.com>  Mon, 10 Sep 2012 18:32:54 +0530
 
@@ -449,7 +520,7 @@ khangman (4:4.8.2-0ubuntu1) precise; urgency=low
 
 khangman (4:4.8.1-0ubuntu1) precise; urgency=low
 
-  * New upstream release 
+  * New upstream release
 
  -- Philip Muškovac <yofel@kubuntu.org>  Sun, 04 Mar 2012 20:28:30 +0100
 
@@ -485,8 +556,8 @@ khangman (4:4.7.4-2) unstable; urgency=low
 
 khangman (4:4.7.4-1) experimental; urgency=low
 
-  * New upstream release. 
-  
+  * New upstream release.
+
   [ José Manuel Santamaría Lema ]
   * Bump kde-sc-dev-latest build dependency to 4:4.7.4.
 
@@ -539,4 +610,3 @@ khangman (4:4.6.90+repack-0ubuntu1) oneiric; urgency=low
   * Repack upstream source to include a copy of GFDL1.2
 
  -- Harald Sitter <apachelogger@ubuntu.com>  Sun, 10 Jul 2011 11:55:40 +0200
-
