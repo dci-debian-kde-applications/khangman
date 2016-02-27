@@ -1,6 +1,10 @@
 khangman (4:15.12.1-1ubuntu1) UNRELEASED; urgency=medium
 
+  [ Scarlett Clark ]
   * Debian merge: No remaining changes.
+
+  [ Clive Johnston ]
+  * Adding lintian overrides for the font files warnings
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Thu, 04 Feb 2016 17:04:41 -0800
 

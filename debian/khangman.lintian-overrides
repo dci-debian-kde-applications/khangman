@@ -1,0 +1,3 @@
+# Font files are in not-installed, so we can ignore these lintian warning
+khangman: duplicate-font-file usr/share/khangman/fonts/Domestic_Manners.ttf also in fonts-dustin
+khangman: duplicate-font-file usr/share/khangman/fonts/Dustismo_Roman.ttf also in fonts-dustin
