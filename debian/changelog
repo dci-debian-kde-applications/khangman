@@ -1,8 +1,8 @@
-khangman (4:15.12.1-1ubuntu1) UNRELEASED; urgency=medium
+khangman (4:15.12.1-1ubuntu1) xenial; urgency=medium
 
   * Debian merge: No remaining changes.
 
- -- Scarlett Clark <sgclark@kubuntu.org>  Thu, 04 Feb 2016 17:04:41 -0800
+ -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 09 Mar 2016 10:45:00 +0100
 
 khangman (4:15.12.1-1) experimental; urgency=medium
 
