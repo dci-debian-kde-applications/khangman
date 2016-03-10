@@ -1,4 +1,4 @@
-khangman (4:15.12.1-1ubuntu1) UNRELEASED; urgency=medium
+khangman (4:15.12.1-1ubuntu1) xenial; urgency=medium
 
   [ Scarlett Clark ]
   * Debian merge: No remaining changes.
@@ -6,7 +6,7 @@ khangman (4:15.12.1-1ubuntu1) UNRELEASED; urgency=medium
   [ Clive Johnston ]
   * Adding lintian overrides for the font files warnings
 
- -- Scarlett Clark <sgclark@kubuntu.org>  Thu, 04 Feb 2016 17:04:41 -0800
+ -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 09 Mar 2016 10:45:00 +0100
 
 khangman (4:15.12.1-1) experimental; urgency=medium
 
