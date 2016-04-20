@@ -1,10 +1,11 @@
-khangman (4:15.12.1-2~1.gbpdb0c89) UNRELEASED; urgency=medium
+khangman (4:16.04.0-1~1.gbp38cbfe) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @db0c89c61fb9928ea70bfb22aa95497203afc482 **
+  ** SNAPSHOT build @38cbfebc8973c5629a0610f63956242bbe22d040 **
 
   * Bump Standards-Version to 3.9.8
+  * UNRELEASED
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Wed, 13 Apr 2016 11:54:30 +0200
+ -- Automatic packaging <jenkins@amadeus.gnuservers.com.ar>  Thu, 21 Apr 2016 01:52:17 +0200
 
 khangman (4:15.12.1-1) experimental; urgency=medium
 
