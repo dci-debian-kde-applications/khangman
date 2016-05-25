@@ -1,12 +1,13 @@
-khangman (4:16.04.1-1~1.gbp464567) UNRELEASED; urgency=medium
+khangman (4:16.04.1-1) unstable; urgency=medium
 
-  ** SNAPSHOT build @4645679ba1c693138e127b0fc28566e3893495d6 **
-
+  [ Automatic packaging ]
   * Bump Standards-Version to 3.9.8
-  * UNRELEASED
-  * UNRELEASED
 
- -- Automatic packaging <jenkins@amadeus.gnuservers.com.ar>  Tue, 10 May 2016 19:52:14 +0200
+  [ Maximiliano Curia ]
+  * Add upstream metadata (DEP-12)
+  * debian/control: Update Vcs-Browser and Vcs-Git fields
+
+ -- Maximiliano Curia <maxy@debian.org>  Thu, 26 May 2016 00:47:54 +0200
 
 khangman (4:15.12.1-1) experimental; urgency=medium
 
