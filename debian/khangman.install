@@ -4,6 +4,7 @@ usr/share/appdata/org.kde.khangman.appdata.xml
 usr/share/applications/org.kde.khangman.desktop
 usr/share/config.kcfg/khangman.kcfg
 usr/share/doc/HTML/*/khangman/
-usr/share/icons/*/*/apps/khangman.*
 usr/share/icons/*/*/apps/khangman-harmattan.*
-usr/share/khangman/
+usr/share/icons/*/*/apps/khangman.*
+usr/share/khangman/qml/
+usr/share/khangman/themes/
