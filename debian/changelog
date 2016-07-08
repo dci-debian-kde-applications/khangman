@@ -14,7 +14,6 @@ khangman (4:16.04.1-1) unstable; urgency=medium
   * debian/control: Update Vcs-Browser and Vcs-Git fields
 
  -- Maximiliano Curia <maxy@debian.org>  Thu, 26 May 2016 00:47:54 +0200
->>>>>>> master
 
 khangman (4:15.12.1-1) experimental; urgency=medium
 
