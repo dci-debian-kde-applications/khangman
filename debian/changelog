@@ -1,10 +1,11 @@
-khangman (4:16.04.3-1~1.gbp9b3efd) UNRELEASED; urgency=medium
+khangman (4:16.08.0-1~1.gbp75c74b) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @9b3efd60ef5a4a661f142833638e087c43aec1c2 **
+  ** SNAPSHOT build @75c74bd20d7fd56465b3a2318f182e91e166c82a **
 
   * Update build-deps and deps with the info from cmake
+  * UNRELEASED
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Tue, 12 Jul 2016 19:52:21 +0200
+ -- Automatic packaging <jenkins@gnuservers.com.ar>  Thu, 18 Aug 2016 19:52:20 +0200
 
 khangman (4:16.04.1-1) unstable; urgency=medium
 
