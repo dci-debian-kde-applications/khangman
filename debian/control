@@ -35,7 +35,17 @@ Vcs-Git: https://anonscm.debian.org/git/pkg-kde/applications/khangman.git
 Package: khangman
 Architecture: any
 Section: misc
-Depends: fonts-dustin, kdeedu-kvtml-data, ${misc:Depends}, ${shlibs:Depends}
+Depends: fonts-dustin,
+         kdeedu-kvtml-data,
+         qml-module-qtgraphicaleffects,
+         qml-module-qtmultimedia,
+         qml-module-qtquick-controls,
+         qml-module-qtquick-dialogs,
+         qml-module-qtquick-layouts,
+         qml-module-qtquick-window2,
+         qml-module-qtquick2,
+         ${misc:Depends},
+         ${shlibs:Depends}
 Suggests: khelpcenter
 Description: Hangman word puzzle
  KHangMan is the well-known Hangman game, aimed towards children aged 6 and
