@@ -47,6 +47,8 @@ Depends: fonts-dustin,
          ${misc:Depends},
          ${shlibs:Depends}
 Suggests: khelpcenter
+Breaks: ${kde-l10n:all}
+Replaces: ${kde-l10n:all}
 Description: Hangman word puzzle
  KHangMan is the well-known Hangman game, aimed towards children aged 6 and
  above.
