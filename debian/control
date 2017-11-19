@@ -4,12 +4,10 @@ Priority: optional
 Maintainer: Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 Uploaders: Eshat Cakar <info@eshat.de>,
            Sune Vuorela <sune@debian.org>,
-           Maximiliano Curia <maxy@debian.org>
+           Maximiliano Curia <maxy@debian.org>,
 Build-Depends: cmake (>= 2.8.12),
                debhelper (>= 9),
                extra-cmake-modules (>= 1.7.0~),
-               kdoctools-dev (>= 5.15.0~),
-               kio-dev (>= 5.15.0~),
                libkeduvocdocument-dev,
                libkf5completion-dev (>= 5.15.0~),
                libkf5config-dev (>= 5.15.0~),
@@ -28,8 +26,8 @@ Build-Depends: cmake (>= 2.8.12),
                libqt5svg5-dev (>= 5.4),
                pkg-kde-tools (>> 0.15.15),
                qtbase5-dev (>= 5.4),
-               qtdeclarative5-dev (>= 5.4)
-Standards-Version: 3.9.8
+               qtdeclarative5-dev (>= 5.4),
+Standards-Version: 4.1.0
 Homepage: http://edu.kde.org/
 Vcs-Browser: https://anonscm.debian.org/git/pkg-kde/applications/khangman.git
 Vcs-Git: https://anonscm.debian.org/git/pkg-kde/applications/khangman.git
@@ -37,8 +35,20 @@ Vcs-Git: https://anonscm.debian.org/git/pkg-kde/applications/khangman.git
 Package: khangman
 Architecture: any
 Section: misc
-Depends: fonts-dustin, kdeedu-kvtml-data, ${misc:Depends}, ${shlibs:Depends}
+Depends: fonts-dustin,
+         kdeedu-kvtml-data,
+         qml-module-qtgraphicaleffects,
+         qml-module-qtmultimedia,
+         qml-module-qtquick-controls,
+         qml-module-qtquick-dialogs,
+         qml-module-qtquick-layouts,
+         qml-module-qtquick-window2,
+         qml-module-qtquick2,
+         ${misc:Depends},
+         ${shlibs:Depends},
 Suggests: khelpcenter
+Breaks: ${kde-l10n:all}
+Replaces: ${kde-l10n:all}
 Description: Hangman word puzzle
  KHangMan is the well-known Hangman game, aimed towards children aged 6 and
  above.
