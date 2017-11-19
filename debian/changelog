@@ -6,6 +6,11 @@ khangman (4:17.08.3-0r1) UNRELEASED; urgency=medium
     translations.
   * Simplify watch file, and switch it to https.
   * Bump Standards-Version to 4.1.1, no changes required.
+  * Stop forcing debian/tmp as local installation directory, installing
+    everything to the final location
+    - make sure to remove the local fonts, as it already depends on (and use)
+      the system versions
+    - drop khangman.install, and not-installed, no more useful now
 
  -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sun, 19 Nov 2017 11:17:02 +0100
 
