@@ -1,3 +1,29 @@
+khangman (4:17.08.3-2) unstable; urgency=medium
+
+  * Team upload.
+  * Adjust again l10npkgs_firstversion_ok to the fixed version of kde-
+    l10n.
+
+ -- Pino Toscano <pino@debian.org>  Mon, 20 Nov 2017 20:55:33 +0100
+
+khangman (4:17.08.3-1) unstable; urgency=medium
+
+  * Team upload.
+  * Upload to unstable.
+  * New upstream release.
+  * Adjust l10npkgs_firstversion_ok to the version where kde-l10n will drop
+    translations.
+  * Simplify watch file, and switch it to https.
+  * Bump Standards-Version to 4.1.1, no changes required.
+  * Stop forcing debian/tmp as local installation directory, installing
+    everything to the final location
+    - make sure to remove the local fonts, as it already depends on (and use)
+      the system versions
+    - drop khangman.install, khangman.manpages, and not-installed, no more
+      useful now
+
+ -- Pino Toscano <pino@debian.org>  Sun, 19 Nov 2017 12:27:43 +0100
+
 khangman (4:17.08.1-1) experimental; urgency=medium
 
   * New upstream release (17.08.1)
